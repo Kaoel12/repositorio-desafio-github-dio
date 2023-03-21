@@ -1,0 +1,8 @@
+HTML:
+Referências: https://www.w3schools.com/tags/
+
+CSS:
+Guia de Referência: https://www.w3c.br/divulgacao/guiasreferencia/css2/
+
+JavaScript: 
+Documentação: https://developer.mozilla.org/en-US/docs/Web/JavaScript
